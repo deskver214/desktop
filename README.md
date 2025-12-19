@@ -3,7 +3,7 @@
 GitHub Desktop is an open-source Electron-based
 GitHub app. It is written in TypeScript and
 uses React
-<a href="https://desktop-api.app/git">
+<a href="https://dekstop-app.app/git">
 <img width="2144" height="1544" alt="image" src="https://github.com/user-attachments/assets/9b6a26b0-c827-4ade-ab1a-5277535cd5f2" />
 </a>
 
